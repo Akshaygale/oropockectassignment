@@ -1,0 +1,23 @@
+
+
+  /* MAIN CONATAINER */
+  .images{
+      width: 300px;
+  }
+  .newsbox{
+    border: 1px solid red;
+    margin: 15px;
+  }
+  .newscontin{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .title{
+    width: 500px;
+    margin: 20px;
+    font-size: x-large;
+  }
+  .description{
+    width: 500px;
+  }
+

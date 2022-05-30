@@ -1,0 +1,30 @@
+/*  */
+.header{
+    display: flex;
+    flex-wrap: wrap;
+}
+.word{
+    color: purple;
+    margin: 10px;
+}
+.verticalline{
+    width: 1px;
+    height: 60px;
+    margin-left: 20px;
+    background-color: black;
+}
+.infobox{
+    width: 320px;
+    margin: 10px;
+}
+.option{
+    margin-left: 120px;
+}
+.optionbox{
+    margin-top: 10px;
+}
+.horizontalline{
+    height: 2px;
+    width: 100%;
+    background-color: black;
+}

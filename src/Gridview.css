@@ -1,0 +1,27 @@
+
+
+  /* MAIN CONATAINER */
+  .images1{
+    width: 90%;
+    margin: 10px;
+}
+.newsbox1{
+  border: 1px solid red;
+  margin: 15px;
+  width: 600px;
+  height: 550px;
+  text-align: center;
+  
+}
+.row1{
+    display: grid;
+    grid-template-columns:2fr 2fr ;
+}
+.title1{
+  margin: 20px;
+  font-size: x-large;
+}
+.description1{
+  width: 500px;
+}
+
